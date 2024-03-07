@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<miniQuest>
+		<number>101</number>
+		<mainNumber>100</mainNumber>
+		<character>0</character>
+		<questName>카룸 처치</questName>
+		<description>카룸 3마리 처치하기</description>
+		<dialogIndex>1</dialogIndex>
+		<level>1</level>
+		<questType>Battle</questType>
+		<goalAmount>3</goalAmount>
+		<goalNpc>-1</goalNpc>
+		<gold>0</gold>
+		<exp>0</exp>
+		<item>-1</item>
+	</miniQuest>
+	<miniQuest>
+		<number>102</number>
+		<mainNumber>100</mainNumber>
+		<character>0</character>
+		<questName>카룸 처치</questName>
+		<description>마리암과 대화하기</description>
+		<dialogIndex>2</dialogIndex>
+		<level>1</level>
+		<questType>Social</questType>
+		<goalAmount>0</goalAmount>
+		<goalNpc>0</goalNpc>
+		<gold>0</gold>
+		<exp>500</exp>
+		<item>-1</item>
+	</miniQuest>
+	<miniQuest>
+		<number>201</number>
+		<mainNumber>200</mainNumber>
+		<character>0</character>
+		<questName>마리암의 보답</questName>
+		<description>마리암을 따라가기</description>
+		<dialogIndex>3</dialogIndex>
+		<level>1</level>
+		<questType>Social</questType>
+		<goalAmount>0</goalAmount>
+		<goalNpc>0</goalNpc>
+		<gold>50000</gold>
+		<exp>300</exp>
+		<item>-1</item>
+	</miniQuest>
+	<miniQuest>
+		<number>301</number>
+		<mainNumber>300</mainNumber>
+		<character>1</character>
+		<questName>성 안의 괴물</questName>
+		<description>성 내부에 있는 괴물 처치하기</description>
+		<dialogIndex>7</dialogIndex>
+		<level>2</level>
+		<questType>Battle</questType>
+		<goalAmount>1</goalAmount>
+		<goalNpc>-1</goalNpc>
+		<gold>0</gold>
+		<exp>800</exp>
+		<item>-1</item>
+	</miniQuest>
+	<miniQuest>
+		<number>302</number>
+		<mainNumber>300</mainNumber>
+		<character>1</character>
+		<questName>성 안의 괴물</questName>
+		<description>말녹과 대화하기</description>
+		<dialogIndex>8</dialogIndex>
+		<level>2</level>
+		<questType>Social</questType>
+		<goalAmount>0</goalAmount>
+		<goalNpc>1</goalNpc>
+		<gold>100000</gold>
+		<exp>1000</exp>
+		<item>-1</item>
+	</miniQuest>
+</root>

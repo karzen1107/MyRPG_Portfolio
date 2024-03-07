@@ -46,6 +46,8 @@ ExportedObj/
 *.mdb
 *.opendb
 *.VC.db
+*.txt
+*.pdf
 
 # Unity3D generated meta files
 *.pidb.meta
@@ -70,3 +72,33 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# 따로 추가하는 부분
+TutorialInfo/
+Test/
+Assets/Z_AssetDown/2D Casual UI/
+Assets/Z_AssetDown/ADG_Textures/
+Assets/Z_AssetDown/Basic_RPG_Icons/
+Assets/Z_AssetDown/Blink/
+Assets/Z_AssetDown/CaptainCatSparrow/
+Assets/Z_AssetDown/Devtoid - Gold Coins/
+Assets/Z_AssetDown/Fighter Pack Bundle/
+Assets/Z_AssetDown/Fighters_(Pack)/
+Assets/Z_AssetDown/Flat RPG Icon Pack 1 Weapons/
+Assets/Z_AssetDown/Free UI build package/
+Assets/Z_AssetDown/Hovl Studio/
+Assets/Z_AssetDown/Multistory Dungeons 2/
+
+Assets/Z_AssetDown/OrdosFX/Magic Slashes FX/Animation/
+Assets/Z_AssetDown/OrdosFX/Magic Slashes FX/Character/
+Assets/Z_AssetDown/OrdosFX/Magic Slashes FX/MobileBloom/
+Assets/Z_AssetDown/OrdosFX/Magic Slashes FX/Prefabs/
+Assets/Z_AssetDown/OrdosFX/Magic Slashes FX/SceneResources/
+
+Assets/Z_AssetDown/QuickOutline/
+Assets/Z_AssetDown/RPG Unitframe #1/
+Assets/Z_AssetDown/Simple Icons/
+Assets/Z_AssetDown/TooManyCrosshairs/
+Assets/Z_AssetDown/Ultimate Medieval Constructor/Demo Scenes/
+
+

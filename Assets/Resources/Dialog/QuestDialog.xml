@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<dialog>
+		<number>0</number>
+		<character>0</character>
+		<name>마리암</name>
+		<sentence>엄마낫! 깜짝이야! 그렇게 몰래 다가오시면 어떻게 해요!</sentence>
+		<next>-1</next>
+	</dialog>
+	<dialog>
+		<number>0</number>
+		<character>0</character>
+		<name>마리암</name>
+		<sentence>흠흠, 놀래서 그만 화를 내고 말았네요.
+옷차림을 보니 모험가이신거 같은데… 아차차, 이럴때가 아니지.
+모험가님, 저 좀 도와주세요!</sentence>
+		<next>-1</next>
+	</dialog>
+	<dialog>
+		<number>0</number>
+		<character>0</character>
+		<name>마리암</name>
+		<sentence>저는 바로 앞에 있는 들판에 피어있는 약초를 캐며 생계를 유지하던 사람이에요.
+그런데 며칠 전 부터 카룸들이 점령해버렸지 뭐에요…!</sentence>
+		<next>1</next>
+	</dialog>
+	<dialog>
+		<number>1</number>
+		<character>0</character>
+		<name>마리암</name>
+		<sentence>제가 다시 약초를 캘 수 있도록 카룸들을 쫓아내 주세요!</sentence>
+		<next>-1</next>
+	</dialog>
+	<dialog>
+		<number>2</number>
+		<character>0</character>
+		<name>마리암</name>
+		<sentence>카룸들을 쫓아내 주셨군요! 정말 감사합니다!</sentence>
+		<next>-1</next>
+	</dialog>
+	<dialog>
+		<number>3</number>
+		<character>0</character>
+		<name>마리암</name>
+		<sentence>저를 도와주신 답례를 해드리고 싶은데 저를 따라와주시겠어요?</sentence>
+		<next>-1</next>
+	</dialog>
+	<dialog>
+		<number>4</number>
+		<character>0</character>
+		<name>마리암</name>
+		<sentence>Empty</sentence>
+		<next>-1</next>
+	</dialog>
+	<dialog>
+		<number>5</number>
+		<character>0</character>
+		<name>마리암</name>
+		<sentence>여기, 아까 일에 대한 보답이에요.</sentence>
+		<next>-1</next>
+	</dialog>
+	<dialog>
+		<number>6</number>
+		<character>1</character>
+		<name>말녹</name>
+		<sentence>모험가님, 딸아이에게 말씀 많이 들었습니다.
+저희를 도와주셔서 감사합니다만, 한가지 더 부탁드려도 되겠습니까?</sentence>
+		<next>-1</next>
+	</dialog>
+	<dialog>
+		<number>6</number>
+		<character>1</character>
+		<name>말녹</name>
+		<sentence>뒤편 언덕에 있는 성 안에 몇 달 전부터 거대한 괴물이 자리를 차지하고 있습니다.</sentence>
+		<next>-1</next>
+	</dialog>
+	<dialog>
+		<number>6</number>
+		<character>1</character>
+		<name>말녹</name>
+		<sentence>그 괴물이 달마다 잡아먹히기 싫다면 막대한 양의 식량을 내놓으라고 하지 뭡니까.
+그 괴물 때문에 온 마을주민들이 당장 굶어죽게 생겼습니다.</sentence>
+		<next>7</next>
+	</dialog>
+	<dialog>
+		<number>7</number>
+		<character>1</character>
+		<name>말녹</name>
+		<sentence>괴물을 처치하고 저희 마을에 평화를 가져다 주십시오. 부탁입니다.</sentence>
+		<next>-1</next>
+	</dialog>
+	<dialog>
+		<number>8</number>
+		<character>1</character>
+		<name>말녹</name>
+		<sentence>감사합니다! 덕분에 저희 마을은 앞으로 평화롭게 살수 있게 되었습니다!
+이건 답례입니다.</sentence>
+		<next>-1</next>
+	</dialog>
+</root>

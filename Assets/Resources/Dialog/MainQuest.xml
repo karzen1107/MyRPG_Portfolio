@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<mainQuest>
+		<number>100</number>
+		<character>0</character>
+		<questName>카룸 처치</questName>
+		<description>마리암이 약초를 채집하던 장소를 크룩들이 점령해버렸다.
+마리암의 생계유지를 위해 크룩들을 쫓아버리자.</description>
+		<dialogIndex>0</dialogIndex>
+		<level>1</level>
+		<questType>Battle</questType>
+		<goalAmount>3</goalAmount>
+		<gold>0</gold>
+		<exp>500</exp>
+		<item>-1</item>
+	</mainQuest>
+	<mainQuest>
+		<number>200</number>
+		<character>0</character>
+		<questName>마리암의 보답</questName>
+		<description>크룩을 쫓아준 나에게 고맙다며 보답을하길 원한다.
+마리암을 따라가자.</description>
+		<dialogIndex>3</dialogIndex>
+		<level>1</level>
+		<questType>Social</questType>
+		<goalAmount>0</goalAmount>
+		<gold>50000</gold>
+		<exp>300</exp>
+		<item>-1</item>
+	</mainQuest>
+	<mainQuest>
+		<number>300</number>
+		<character>1</character>
+		<questName>성 안의 괴물</questName>
+		<description>성 내부에 있는 괴물의 횡포로 마을 주민들이 고통 받고있다.
+괴물을 처치하여 마을에 평화를 가져다 주자.</description>
+		<dialogIndex>6</dialogIndex>
+		<level>2</level>
+		<questType>Battle</questType>
+		<goalAmount>1</goalAmount>
+		<gold>100000</gold>
+		<exp>1000</exp>
+		<item>-1</item>
+	</mainQuest>
+</root>
